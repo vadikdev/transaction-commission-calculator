@@ -2,7 +2,8 @@
 
 ## Requirements
 
-`"php": ">=8.2",`
+1. `"php": ">=8.2",`
+2. [composer](https://getcomposer.org/)
 
 ## Set-up
 
